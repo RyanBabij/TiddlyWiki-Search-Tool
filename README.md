@@ -11,6 +11,6 @@ It will display the title of each article, and below it will display each line c
 
 Sample output:
 
-![Screenshot of console output](https://raw.githubusercontent.com/RyanBabij/TiddlyWiki-Search-Tool/master/doc/Console.png)
+![Screenshot of console output](https://raw.githubusercontent.com/RyanBabij/TiddlyWiki-Search-Tool/refs/heads/main/SampleOutput/Console.png)
 
-![Screenshot of HTML output](https://raw.githubusercontent.com/RyanBabij/TiddlyWiki-Search-Tool/master/doc/HTML.png)
+![Screenshot of HTML output](https://raw.githubusercontent.com/RyanBabij/TiddlyWiki-Search-Tool/refs/heads/main/SampleOutput/HTML.png)
