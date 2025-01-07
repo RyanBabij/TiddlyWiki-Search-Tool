@@ -15,7 +15,7 @@ Make a bat file like this:
 py "C:\path\to\wikisearch.py"
 pause
 ```
-And you can just double-click that and type in what you are searching for. Console will give you quick convenient output. The HTML file will give you output useful for lots of results.
+And you can just double-click that and type in what you are searching for. Console will give you quick convenient output. The HTML file will give you output useful for lots of results. You can make a shortcut to the HTML file as well to make it easier to open.
 
 Sample output:
 
