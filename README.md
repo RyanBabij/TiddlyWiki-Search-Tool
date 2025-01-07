@@ -19,6 +19,8 @@ pause
 ```
 And you can just double-click that and type in what you are searching for. Console will give you quick convenient output. The HTML file will give you output useful for lots of results. You can make a shortcut to the HTML file as well to make it easier to open.
 
+I haven't gotten around to making it ignore embedded images or system tiddlers, so hopefully that's not a problem.
+
 Sample output:
 
 ![Screenshot of console output](https://raw.githubusercontent.com/RyanBabij/TiddlyWiki-Search-Tool/refs/heads/main/SampleOutput/Console.png)
