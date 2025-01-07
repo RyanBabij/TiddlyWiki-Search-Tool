@@ -2,7 +2,9 @@
 An external console-based search tool for TiddlyWiki to supplement the terrible built-in one.
 
 Developed with Python 3.10.6. Requires BeautifulSoup.
-
+```
+py -m pip install BeautifulSoup
+```
 Developed with GPT4. Actually I didn't write any of it, hopefully it works okay lol.
 
 You must modify the source to link to your index.html file. When you open the program it will prompt you for a keyword to search.
